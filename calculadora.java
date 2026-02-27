@@ -11,4 +11,9 @@ public class calculadora{
         return num1+num2;
     }
 
+    public int multiplicacion(int num1, int num2){
+
+        return num1*num2;
+    }
+
 }

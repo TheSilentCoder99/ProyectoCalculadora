@@ -5,6 +5,8 @@ public static void main(String[]args){
     calculadora calc = new calculadora();
 
     System.out.println(calc.suma(6, 7));
+
+    System.out.println(calc.multiplicacion(5,6));
     
 }
 
